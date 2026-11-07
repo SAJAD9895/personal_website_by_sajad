@@ -64,8 +64,7 @@ export default function About() {
 
             <div className="pt-4 border-t border-white/[0.04]">
               <p className="text-[16px] sm:text-[17px] leading-[1.8] text-text-primary font-medium italic">
-                &ldquo;I believe technology should not simply be complicated or impressive. It should be useful, 
-                accessible and capable of solving meaningful problems.&rdquo;
+                &ldquo;Technology creates real value when it turns complex challenges into simple, practical solutions that make a meaningful difference in the way people work and businesses grow.&rdquo;
               </p>
             </div>
           </div>
