@@ -24,8 +24,7 @@ export default function Expertise() {
       <SectionLabel>What I Do</SectionLabel>
       <SectionHeading>Areas of Expertise</SectionHeading>
       <SectionDescription className="mb-16">
-        My work spans software engineering, AI education and business automation — 
-        three areas that together help build practical technology solutions.
+        I work at the intersection of software engineering, artificial intelligence, and business automation — combining technology, practical AI solutions, and innovation to help businesses solve real-world problems and improve the way they work.
       </SectionDescription>
 
       <div className="space-y-8">
